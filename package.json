@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/teppei-gym/typescript-for-javascript-devoppers/issues"
   },
-  "homepage": "https://github.com/teppei-gym/typescript-for-javascript-devoppers#readme"
+  "homepage": "https://github.com/teppei-gym/typescript-for-javascript-devoppers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
